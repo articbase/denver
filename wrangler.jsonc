@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "platform-engineering-sumesh",
+  "name": "denver",
   "compatibility_date": "2024-04-05",
   "assets": {
     "directory": "./dist"
